@@ -1,0 +1,14 @@
+# CPSC354-2024
+
+
+Homework 3
+
+Main Question for Assignment 3: How does Haskell relate to modern programming usages in artificial intelligence and firmware engineering?
+
+Using Chat GPT 4, I understood Haskell's role in AI and firmware engineering has evolved through the development of functional programming (FP), type theory, and formal methods. Initially, AI relied on languages like Lisp and Prolog for symbolic manipulation, but Haskell’s mathematical rigor and immutability attracted researchers for tasks such as machine learning and probabilistic programming. In firmware, Haskell’s strong type system and support for formal verification made it suitable for safety-critical systems, despite the dominance of lower-level languages like C. Key subfields contributing to this evolution include FP, which emphasized immutability and higher-order functions, type theory, which introduced algebraic and dependent types for robustness, and formal methods, crucial for ensuring correctness in firmware. These areas interlinked, with type theory enhancing FP’s robustness, FP benefiting formal verification, and domain-specific languages (DSLs) emerging to bridge high-level abstractions with hardware. Influential figures like Simon Peyton Jones and Philip Wadler (Haskell co-creators), John Hughes (advocate for modularity in FP), and Edsger W. Dijkstra (promoter of formal verification) have shaped the field. Key works include "A History of Haskell" by Peyton Jones, "Why Functional Programming Matters" by Hughes, and "Monad Transformers and Modular Interpreters" by Mark P. Jones, along with essential tools like the Glasgow Haskell Compiler (GHC) and Benjamin Pierce's "Types and Programming Languages." These contributions collectively strengthened Haskell’s applications in AI and firmware engineering.
+
+The search on Google Scholar revealed that microcontrollers and machine learning (ML) practices are highly relevant in today’s computer engineering field. Microcontrollers, essential in various applications from consumer electronics to industrial systems, are evolving with more powerful processors and improved efficiency, crucial for IoT and edge computing. Meanwhile, ML is transforming computer engineering by enabling systems to learn from data and optimize performance. In areas like predictive maintenance, robotics, and system security, ML enhances automation and data analysis. Combining microcontrollers with ML offers exciting possibilities for smarter devices and more adaptable technologies, driving innovation across many sectors.
+
+Sources:
+https://dl.acm.org/doi/abs/10.1145/268946.268951
+https://link.springer.com/chapter/10.1007/978-3-030-14805-8_8
